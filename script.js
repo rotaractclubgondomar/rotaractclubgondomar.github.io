@@ -9,7 +9,7 @@ const urls = [
   'images/3.png',
   'images/4.png',
   'images/5.png',
-  'images/7.jpg',
+  'images/7.png',
   'images/6.jpg',
 ];
 
